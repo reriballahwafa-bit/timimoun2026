@@ -1,0 +1,18 @@
+name: timimoun-climate
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - requests
+  - pandas
+  - numpy
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - matplotlib
+  - plotly
+  - scipy
+  - openpyxl
+  - reportlab
+  - pillow
+  - streamlit

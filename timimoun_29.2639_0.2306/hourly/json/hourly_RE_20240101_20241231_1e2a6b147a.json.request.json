@@ -1,0 +1,17 @@
+{
+  "url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=T2M%2CT2MDEW%2CALLSKY_SFC_SW_DWN%2CALLSKY_SFC_LW_DWN%2CALLSKY_SFC_SW_DIFF%2CRH2M%2CQV2M%2CWS2M%2CWD2M%2CPRECTOTCORR&community=RE&latitude=29.2639&longitude=0.2306&format=JSON&header=true&start=20240101&end=20241231&time-standard=LST",
+  "retrieved_utc": "2026-11-23T13:38:53.728398+00:00",
+  "sha256": "6c0a2741267f2426ac3c6df37557fbef3df49f650e4d2cbd0c1595ad5134cc11",
+  "bytes": 1614580,
+  "params": {
+    "parameters": "T2M,T2MDEW,ALLSKY_SFC_SW_DWN,ALLSKY_SFC_LW_DWN,ALLSKY_SFC_SW_DIFF,RH2M,QV2M,WS2M,WD2M,PRECTOTCORR",
+    "community": "RE",
+    "latitude": 29.2639,
+    "longitude": 0.2306,
+    "format": "JSON",
+    "header": "true",
+    "start": "20240101",
+    "end": "20241231",
+    "time-standard": "LST"
+  }
+}
